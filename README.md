@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ITDevPA
 - 👀 I’m interested in ... web and desktop programming
-- 🌱 I’m currently learning ... scripting languages
+- 🌱 I’m currently learning ... scripting languages and improve C# knowledge
 - 💞️ I’m looking to collaborate on ... C# , Android
 - 📫 How to reach me ...
 
